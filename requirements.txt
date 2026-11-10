@@ -1,0 +1,15 @@
+matplotlib
+numpy
+Pillow
+pypdf
+python-docx
+python-dotenv
+cryptography
+keyring
+supabase
+PySide6
+pyttsx3
+SpeechRecognition
+PyAudio
+pywin32; sys_platform == "win32"
+comtypes; sys_platform == "win32"
